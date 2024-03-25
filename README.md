@@ -4,6 +4,7 @@ Just another WordPress enthusiast who writes code for fun at [WP Corner](https:/
 
 ## Quick facts about me
 
+- [WordPress 6.5 Release Test Co-Lead](https://make.wordpress.org/core/2024/01/18/wordpress-6-5-release-squad-formation/)
 - Web developer with over 7 years of experience building WordPress websites and applications.
 - [WordPress contributor and plugin author](https://profiles.wordpress.org/lumiblog/)
 - Technical content writer - I write at [WP Corner](https://wpcorner.co/author/patrick-l/)
