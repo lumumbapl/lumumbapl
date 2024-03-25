@@ -9,6 +9,7 @@ Just another WordPress enthusiast who writes code for fun at [WP Corner](https:/
 - Technical content writer - I write at [WP Corner](https://wpcorner.co/author/patrick-l/)
 - Host of [The Blogging in 15 Show](https://open.spotify.com/show/3sa1i8q68WebapXtH23iP3)
 - Blogger and YouTuber
+- [Divi Child themes and layouts author](https://www.elegantthemes.com/marketplace/author/divi-banks/) at Divi Banks.
 
 [Blog](https://wpcorner.co) | [Twitter (X)](https://wpcorner.co/author/patrick-l/www.twitter.com/lumiblog) | [Spotify](https://open.spotify.com/show/3sa1i8q68WebapXtH23iP3) | [YouTube](https://www.youtube.com/channel/UC_IqyE0Y8Ey3CytcoXiQTMQ)
 
