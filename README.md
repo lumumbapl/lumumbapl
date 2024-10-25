@@ -7,11 +7,11 @@ Just another WordPress enthusiast who writes code for fun at [WP Corner](https:/
 - [WordPress 6.5 Release Test Co-Lead](https://make.wordpress.org/core/2024/01/18/wordpress-6-5-release-squad-formation/)
 - Web developer with over 7 years of experience building WordPress websites and applications.
 - [WordPress contributor and plugin author](https://profiles.wordpress.org/lumiblog/)
-- Technical content writer - I write at [WP Corner](https://wpcorner.co/author/patrick-l/)
-- Blogger and YouTuber
+- Technical content writer.
+- Blogger and [YouTuber](https://www.youtube.com/@divibanks)
 - [Divi Child themes and layouts author](https://www.elegantthemes.com/marketplace/author/divi-banks/) at Divi Banks.
 
-[Blog](https://lumumbas.blog) | [Twitter (X)](https://wpcorner.co/author/patrick-l/www.twitter.com/lumiblog) | [Spotify](https://open.spotify.com/show/3sa1i8q68WebapXtH23iP3) | [YouTube](https://www.youtube.com/channel/UC_IqyE0Y8Ey3CytcoXiQTMQ)
+[Blog](https://lumumbas.blog) | [Twitter (X)](www.twitter.com/lumiblog) | [Spotify](https://open.spotify.com/show/3sa1i8q68WebapXtH23iP3) | [YouTube](https://www.youtube.com/channel/UC_IqyE0Y8Ey3CytcoXiQTMQ)
 
 ## List of projects I'm super proud of
 
