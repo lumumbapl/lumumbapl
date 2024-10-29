@@ -1,6 +1,6 @@
 # Hi! I'm Patrick 👋
 
-Just another WordPress enthusiast who writes code for fun at [WP Corner](https://github.com/wpcorner) and contributes to [WordPress](https://github.com/WordPress).
+Just another WordPress enthusiast who writes code for fun at [Divi Banks](https://github.com/divibanks) and contributes to [WordPress](https://github.com/WordPress).
 
 ## Quick facts about me
 
@@ -10,6 +10,7 @@ Just another WordPress enthusiast who writes code for fun at [WP Corner](https:/
 - Technical content writer.
 - Blogger and [YouTuber](https://www.youtube.com/@divibanks)
 - [Divi Child themes and layouts author](https://www.elegantthemes.com/marketplace/author/divi-banks/) at Divi Banks.
+- Mentor - WordPress Contributor Mentorship Program (Cohort #3)
 
 [Blog](https://lumumbas.blog) | [Twitter (X)](www.twitter.com/lumiblog) | [Spotify](https://open.spotify.com/show/3sa1i8q68WebapXtH23iP3) | [YouTube](https://www.youtube.com/channel/UC_IqyE0Y8Ey3CytcoXiQTMQ)
 
