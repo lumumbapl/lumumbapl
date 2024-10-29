@@ -12,7 +12,7 @@ Just another WordPress enthusiast who writes code for fun at [Divi Banks](https:
 - [Divi Child themes and layouts author](https://www.elegantthemes.com/marketplace/author/divi-banks/) at Divi Banks.
 - Mentor - WordPress Contributor Mentorship Program (Cohort #3)
 
-[Blog](https://lumumbas.blog) | [Twitter (X)](htps://x.com/lumiblog) | [Spotify](https://open.spotify.com/show/3sa1i8q68WebapXtH23iP3) | [YouTube](https://www.youtube.com/channel/UC_IqyE0Y8Ey3CytcoXiQTMQ)
+[Blog](https://lumumbas.blog) | [Twitter (X)](https://x.com/lumiblog) | [Spotify](https://open.spotify.com/show/3sa1i8q68WebapXtH23iP3) | [YouTube](https://www.youtube.com/channel/UC_IqyE0Y8Ey3CytcoXiQTMQ)
 
 ## List of projects I'm super proud of
 
