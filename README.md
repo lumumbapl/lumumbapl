@@ -25,8 +25,6 @@ And, I am currently **working on a new blogging course**, which is set to be pub
 
 ✉️ Want to get in touch with me, feel free to [contact me](https://lumumbas.blog/contact). 
 
-And, I welcome donations. I truly enjoy working on these open source projects, and [your donation](https://github.com/sponsors/lumumbapl) will go a long way into helping me maintain them. 
-
 Thank you, and welcome to my GitHub page. 
 
 Patrick L.
