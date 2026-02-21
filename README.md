@@ -10,20 +10,19 @@ Just another WordPress enthusiast who writes code for fun and contributes to [Wo
 - WordPress content writer.
 - Mentor - WordPress Contributor Mentorship Program (Cohort #3)
 
-[Blog](https://lumumbas.blog) | [Twitter (X)](https://x.com/lumiblog) 
+[Blog](https://lumumbas-blog.co.ke) | [Twitter (X)](https://x.com/lumiblog) 
 ## List of projects I'm super proud of
 
 These plugins are free and open source, licensed under GPL, just like WordPress:
 
 - [Search Engines Blocked in Header](https://wordpress.org/plugins/search-engines-blocked-in-header/)
-- [Quick Event Calendar](https://wordpress.org/plugins/quick-event-calendar/)
+- [Lumiblog Debug Log Inspector](https://wordpress.org/plugins/lumiblog-debug-log-inspector/)
 - [Footnotes Made Easy](https://wordpress.org/plugins/footnotes-made-easy/)
-- [Bulk Variations for WooCommerce](https://wordpress.org/plugins/bulk-variations-for-woocommerce/)
-- and [so much more](https://profiles.wordpress.org/lumiblog/#content-plugins).
+- [Page Categorizer](https://wordpress.org/plugins/page-categorizer/)
 
 And, I am currently **working on a new blogging course**, which is set to be published on Udemy. 
 
-✉️ Want to get in touch with me, feel free to [contact me](https://lumumbas.blog/contact). 
+✉️ Want to get in touch with me, feel free to [contact me](https://lumumbas-blog.co.ke/contact). 
 
 Thank you, and welcome to my GitHub page. 
 
