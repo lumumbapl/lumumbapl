@@ -20,8 +20,6 @@ These plugins are free and open source, licensed under GPL, just like WordPress:
 - [Footnotes Made Easy](https://wordpress.org/plugins/footnotes-made-easy/)
 - [Page Categorizer](https://wordpress.org/plugins/page-categorizer/)
 
-And, I am currently **working on a new blogging course**, which is set to be published on Udemy. 
-
 ✉️ Want to get in touch with me, feel free to [contact me](https://lumumbas-blog.co.ke/contact). 
 
 Thank you, and welcome to my GitHub page. 
